@@ -1,3 +1,5 @@
+
+#to print upward pyramid of'*'
 rows = int(input("Enter number of rows: "))
 
 k = 0
