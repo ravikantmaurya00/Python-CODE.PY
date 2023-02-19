@@ -52,8 +52,3 @@ p=eval(input("Enter the value1:-"))
 q=eval(input("Enter the value2:-"))
 print(p+q)
 print()
-print('CONDITIONAL STATEMENTS')
-print('if')
-a=int(input("Enter the value1:-"))
-if a/2=0:
-	print("Divisible by 2")
