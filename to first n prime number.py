@@ -1,3 +1,5 @@
+
+#to find first n prime number
 numr=int(input("Enter range:"))
 
 print("Prime numbers:",end=' ')
